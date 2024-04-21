@@ -1,4 +1,4 @@
-document.write(`<Center> <h1> Age Calculator </h1>`)
+document.write( ` <font color =red> <Center> <h1 >  Age Calculator </h1>`)
 
 
 var userinpu= prompt("Enter Your DOB We Show Your Current Age Enter this Formated Example 12 Dec,1991 ")
